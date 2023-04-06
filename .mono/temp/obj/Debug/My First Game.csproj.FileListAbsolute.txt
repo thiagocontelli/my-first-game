@@ -1,0 +1,9 @@
+C:\Users\thiag\OneDrive\Imagens\my_first_game\.mono\temp\bin\Debug\My First Game.dll
+C:\Users\thiag\OneDrive\Imagens\my_first_game\.mono\temp\bin\Debug\My First Game.pdb
+C:\Users\thiag\OneDrive\Imagens\my_first_game\.mono\temp\obj\Debug\My First Game.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Imagens\my_first_game\.mono\temp\obj\Debug\My First Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Imagens\my_first_game\.mono\temp\obj\Debug\My First Game.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Imagens\my_first_game\.mono\temp\obj\Debug\My First Game.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Imagens\my_first_game\.mono\temp\obj\Debug\My First Game.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Imagens\my_first_game\.mono\temp\obj\Debug\My First Game.dll
+C:\Users\thiag\OneDrive\Imagens\my_first_game\.mono\temp\obj\Debug\My First Game.pdb
